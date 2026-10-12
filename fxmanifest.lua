@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_StreetRaces'
-repository 'https://github.com/0error-scripts/aicore_streetraces'
+repository 'https://github.com/aicore-fivem/aicore_streetraces'
 version '1.0.0'
 
 shared_scripts {
